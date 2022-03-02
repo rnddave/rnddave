@@ -4,13 +4,16 @@
   <br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/david-dickinson-b3704731">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCk14r25ImIhGQVo-YJLO4ZQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/static/v1?label=&message=YouTube&color=red" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/tweet_dawei">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=blue" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.david-dickinson.com">
+    <img src="https://img.shields.io/static/v1?label=&message=Website&color=red" alt="WWW Badge"/>
   </a>
 </div>
 
