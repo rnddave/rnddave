@@ -2,6 +2,9 @@
 <h2>Hi I'm David and this is my GitHub 👋 </h2>
   <br>
 <div id="badges" align="center">
+  <a href="https://www.david-dickinson.com">
+    <img src="https://img.shields.io/static/v1?label=&message=Website&color=red" alt="WWW Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/david-dickinson-b3704731">
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue" alt="LinkedIn Badge"/>
   </a>
@@ -11,8 +14,11 @@
   <a href="https://twitter.com/tweet_dawei">
     <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=blue" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.david-dickinson.com">
-    <img src="https://img.shields.io/static/v1?label=&message=Website&color=red" alt="WWW Badge"/>
+  <a href="https://www.oneMoreDavid.com">
+    <img src="https://img.shields.io/static/v1?label=&message=Blog&color=red" alt="Blog Badge"/>
+  </a>
+  <a href="https://www.threads.net/@onemoredavid">
+    <img src="https://img.shields.io/static/v1?label=&message=Threads&color=blue" alt="Threads Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=rnddave&style=flat-square&color=blue" alt=""/>
 </div>
