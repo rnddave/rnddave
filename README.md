@@ -14,6 +14,7 @@
   <a href="https://www.david-dickinson.com">
     <img src="https://img.shields.io/static/v1?label=&message=Website&color=red" alt="WWW Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=rnddave&style=flat-square&color=blue" alt=""/>
 </div>
 
 <br>
@@ -34,7 +35,6 @@ Without my GitHub, I am useless.</blockquote>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rnddave)](https://git.io/streak-stats) [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnddave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnddave&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
-  <img src="https://komarev.com/ghpvc/?username=rnddave&style=flat-square&color=blue" alt=""/>
   </section>
 
   
