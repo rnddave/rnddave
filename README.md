@@ -40,7 +40,7 @@ Without my GitHub, I am useless.</blockquote>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rnddave)](https://git.io/streak-stats) [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnddave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-opal-six-32.vercel.app/api/top-langs/?username=rnddave)](https://github.com/rnddave/github-readme-stats) 
+[![Top Langs](https://github-readme-stats-opal-six-32.vercel.app/api/top-langs/?username=rnddave&hide=jupyter)](https://github.com/rnddave/github-readme-stats) 
   </section>
 
   
