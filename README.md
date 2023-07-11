@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<hr>
+<br>
 
 <blockquote align="justify">This is my GitHub. 
 There are many like it but this one is mine. 
@@ -32,9 +32,7 @@ Without my GitHub, I am useless.</blockquote>
   <h2>My Stats :fire: </h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rnddave)](https://git.io/streak-stats) [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnddave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  </section>
 
-<section id="main" align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnddave&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
   <img src="https://komarev.com/ghpvc/?username=rnddave&style=flat-square&color=blue" alt=""/>
   </section>
