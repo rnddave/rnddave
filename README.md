@@ -52,6 +52,7 @@ Without my GitHub, I am useless.</blockquote>
 - ⚡ Fun fact: ...
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnddave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnddave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnddave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
