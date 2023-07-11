@@ -35,7 +35,8 @@ Without my GitHub, I am useless.</blockquote>
   </section>
 
 <section id="main" align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnddave&count_private=true)](https://github.com/anuraghazra/github-readme-stats) <img src="https://komarev.com/ghpvc/?username=rnddave&style=flat-square&color=blue" alt=""/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnddave&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+  <img src="https://komarev.com/ghpvc/?username=rnddave&style=flat-square&color=blue" alt=""/>
   </section>
 
   
