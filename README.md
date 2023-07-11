@@ -34,7 +34,10 @@ Without my GitHub, I am useless.</blockquote>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rnddave)](https://git.io/streak-stats) [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnddave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   </section>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnddave&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+<section id="counter" align="right">
+<img src="https://komarev.com/ghpvc/?username=rnddave&style=flat-square&color=blue" alt=""/>
+  </section>
 
   
 <!--
@@ -51,8 +54,5 @@ Without my GitHub, I am useless.</blockquote>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnddave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnddave&count_private=true)](https://github.com/anuraghazra/github-readme-stats) <hr>
-<section id="counter" align="right">
-<img src="https://komarev.com/ghpvc/?username=rnddave&style=flat-square&color=blue" alt=""/>
-  </section>
+
 
