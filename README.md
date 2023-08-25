@@ -38,12 +38,12 @@ Without my GitHub, I am useless.</blockquote>
 <hr>
   <h2>My Stats :fire: </h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rnddave)](https://git.io/streak-stats) [![David's GitHub stats]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rnddave)](https://git.io/streak-stats) 
   </section>
 
   
 <!--
-(https://github-readme-stats.vercel.app/api?username=rnddave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnddave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-opal-six-32.vercel.app/api/top-langs/?username=rnddave)](https://github.com/rnddave/github-readme-stats) 
 
