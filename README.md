@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/static/v1?label=&message=YouTube&color=red" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/tweet_dawei">
-    <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=blue" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=blue" alt="X Badge"/>
   </a>
   <a href="https://www.oneMoreDavid.com">
     <img src="https://img.shields.io/static/v1?label=&message=Blog&color=red" alt="Blog Badge"/>
