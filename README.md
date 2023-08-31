@@ -3,7 +3,7 @@
   <br>
 <div id="badges" align="center">
   <a href="https://www.david-dickinson.com">
-    <img src="https://img.shields.io/static/v1?label=&message=Website&color=red" alt="WWW Badge"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Website&color=purple" alt="WWW Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/david-dickinson-b3704731">
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue" alt="LinkedIn Badge"/>
@@ -15,12 +15,12 @@
     <img src="https://img.shields.io/static/v1?label=&message=X&color=black" alt="X Badge"/>
   </a>
   <a href="https://www.oneMoreDavid.com">
-    <img src="https://img.shields.io/static/v1?label=&message=Blog&color=red" alt="Blog Badge"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Blog&color=green" alt="Blog Badge"/>
   </a>
   <a href="https://www.threads.net/@onemoredavid">
     <img src="https://img.shields.io/static/v1?label=&message=Threads&color=pink" alt="Threads Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=rnddave&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=rnddave&style=flat-square&color=orange" alt=""/>
 </div>
 
 <br>
