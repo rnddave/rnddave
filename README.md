@@ -12,13 +12,13 @@
     <img src="https://img.shields.io/static/v1?label=&message=YouTube&color=red" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/tweet_dawei">
-    <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=blue" alt="X Badge"/>
+    <img src="https://img.shields.io/static/v1?label=&message=X&color=black" alt="X Badge"/>
   </a>
   <a href="https://www.oneMoreDavid.com">
     <img src="https://img.shields.io/static/v1?label=&message=Blog&color=red" alt="Blog Badge"/>
   </a>
   <a href="https://www.threads.net/@onemoredavid">
-    <img src="https://img.shields.io/static/v1?label=&message=Threads&color=blue" alt="Threads Badge"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Threads&color=pink" alt="Threads Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=rnddave&style=flat-square&color=blue" alt=""/>
 </div>
