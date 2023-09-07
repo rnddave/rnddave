@@ -1,5 +1,5 @@
 <section id="main" align="center">
-<h2>Hi I'm David and this is my GitHub 👋 </h2>
+<h2>Hi, I'm David and this is my GitHub 👋 </h2>
   <br>
 <div id="badges" align="center">
   <a href="https://www.david-dickinson.com">
