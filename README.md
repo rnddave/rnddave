@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/david-dickinson-b3704731">
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCk14r25ImIhGQVo-YJLO4ZQ">
+  <a href="https://www.youtube.com/channel/UCGbZVBvbH-UZd7rJ3KckZzA">
     <img src="https://img.shields.io/static/v1?label=&message=YouTube&color=red" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/tweet_dawei">
