@@ -33,7 +33,10 @@ I must master it as I must master my life.
 Without me, my GitHub is useless.
 Without my GitHub, I am useless.</blockquote>
 
-<em> If you know the movie from which this comes, bonus marks.</em> </section>
+<em> If you know the movie from which this comes, bonus marks.</em> 
+
+<a href="https://www.buymeacoffee.com/rnddave" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</section>
 <section id="stats" align="center">  
 <hr>
   
