@@ -42,7 +42,7 @@ Without my GitHub, I am useless.</blockquote>
 </div>
 
 ## Check these out
-
+<div align="center">
 <table>
   <tr>
     <th>Emoji</th>
@@ -90,9 +90,10 @@ Without my GitHub, I am useless.</blockquote>
     <td>React, Sass, React Router, Firebase</td>
   </tr>
 </table>
+</div>
 
 ## And more...
-
+<div align="center">
 <table>
   <tr>
     <th>Emoji</th>
@@ -131,3 +132,5 @@ Without my GitHub, I am useless.</blockquote>
     <td>Dog Grooming Services</td>
   </tr>
 </table>
+</div>
+
