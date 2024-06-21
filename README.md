@@ -83,11 +83,17 @@ Without my GitHub, I am useless.</blockquote>
     <td><a href="https://whattheflash.com">What the Flash?</a></td>
     <td>React, Sass</td>
   </tr>
-    <tr>
+  <tr>
     <td>🥘</td>
     <td>An online store concept</td>
     <td><a href="https://chinese-hotpot.co.uk">Chinese Hotpot</a></td>
     <td>React, Sass, React Router, Firebase</td>
+  </tr>
+  <tr>
+    <td>🪙</td>
+    <td>My ERC-20 token</td>
+    <td><a https://github.com/rnddave/blockchain-101/blob/main/erc20-wallace-token.sol">An ERC-20 Token</a></td>
+    <td>Solidity</td>
   </tr>
 </table>
 </div>
