@@ -103,37 +103,31 @@ Without my GitHub, I am useless.</blockquote>
 <table>
   <tr>
     <th>Emoji</th>
-    <th>Name</th>
     <th>Link</th>
     <th>Info</th>
   </tr>
       <tr>
     <td>🚀</td>
-    <td>Wallace & Wang Ltd</td>
     <td><a href="https://wallaceandwang.com">Wallace & Wang Ltd</a></td>
     <td>AI, LLM Prompting, Development, IT Consultancy, Data</td>
   </tr>
         <tr>
     <td>♻️</td>
-    <td>Another Level</td>
     <td><a href="https://another-level.company">Another Level</a></td>
     <td>Waste Management</td>
   </tr>
           <tr>
     <td>🛜</td>
-    <td>i99</td>
     <td><a href="https://melodious-speculoos-33028d.netlify.app">i99</a></td>
     <td>IT Consultancy</td>
   </tr>
         <tr>
     <td>☔</td>
-    <td>Jobs for Rain</td>
     <td><a href="https://jobs-for-rain.netlify.app">Jobs for Rain</a></td>
     <td>Landing page for a sole trader</td>
   </tr>
         <tr>
     <td>🐕</td>
-    <td>Carols Grooming</td>
     <td><a href="https://gleaming-centaur-9d0521.netlify.app">Carol's Groomers</a></td>
     <td>Dog Grooming Services</td>
   </tr>
