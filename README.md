@@ -53,28 +53,28 @@ Without my GitHub, I am useless.</blockquote>
 
   <tr>
     <td>🌟</td>
-    <td>That New Job</td>
-    <td><a href="https://thatnewjob.com">That | New | Job</a></td>
+    <td>That | New | Job</td>
+    <td><a href="https://thatnewjob.com">ThatNewJob.com</a></td>
     <td>Vite, React, CSS, Firebase</td>
     
   </tr>
   <tr>
     <td>💻</td>
-    <td>One More David</td>
-    <td><a href="https://onemoredavid.com">Writing about ML, DS, W3 & Dev</a></td>
+    <td>Writing about ML, DS, W3 & Dev</td>
+    <td><a href="https://onemoredavid.com">OneMoreDavid.com</a></td>
     <td>React, Gatsby, GraphQL, MarkDown</td>
     
   </tr>
   <tr>
     <td>👨‍💻</td>
     <td>David Dickinson (Portfolio)</td>
-    <td><a href="https://david-dickinson.com">My Portfolio</a></td>
+    <td><a href="https://david-dickinson.com">David-Dickinson.com/a></td>
     <td>React, Tailwind</td>
   </tr>
   <tr>
     <td>🏎️</td>
-    <td>F1 GOAT</td>
-    <td><a href="https://f1-goat.com">Who is the F1 GOAT?</a></td>
+    <td>Who is the F1 GOAT?</td>
+    <td><a href="https://f1-goat.com">f1-goat.com</a></td>
     <td>Vite, React, CSS, Node.js</td>
   </tr>
   <tr>
@@ -85,8 +85,8 @@ Without my GitHub, I am useless.</blockquote>
   </tr>
     <tr>
     <td>🥘</td>
-    <td>Chinese Hotpot</td>
-    <td><a href="https://chinese-hotpot.co.uk">An online store</a></td>
+    <td>An online store concept</td>
+    <td><a href="https://chinese-hotpot.co.uk">Chinese Hotpot</a></td>
     <td>React, Sass, React Router, Firebase</td>
   </tr>
 </table>
