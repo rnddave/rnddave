@@ -93,7 +93,7 @@ Without my GitHub, I am useless.</blockquote>
     <td>🪙</td>
     <td>My ERC-20 token</td>
     <td><a href="https://github.com/rnddave/blockchain-101/blob/main/erc20-wallace-token.sol">An ERC-20 Token</a></td>
-    <td>Solidity</td>
+    <td>Solidity, Ethereum, Blockchain, Web3</td>
   </tr>
 </table>
 </div>
