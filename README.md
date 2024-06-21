@@ -68,7 +68,7 @@ Without my GitHub, I am useless.</blockquote>
   <tr>
     <td>👨‍💻</td>
     <td>David Dickinson (Portfolio)</td>
-    <td><a href="https://david-dickinson.com">David-Dickinson.com/a></td>
+    <td><a href="https://david-dickinson.com">David-Dickinson.com</a></td>
     <td>React, Tailwind</td>
   </tr>
   <tr>
