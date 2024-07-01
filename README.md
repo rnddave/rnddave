@@ -106,10 +106,15 @@ Without my GitHub, I am useless.</blockquote>
     <th>Link</th>
     <th>Info</th>
   </tr>
-      <tr>
+  <tr>
     <td>🚀</td>
     <td><a href="https://wallaceandwang.com">Wallace & Wang Ltd</a></td>
     <td>AI, LLM Prompting, Development, IT Consultancy, Data</td>
+  </tr>
+  <tr>
+    <td>🧮</td>
+    <td><a href="https://number-bonds.netlify.app/">Number Bonds</a></td>
+    <td>Helping my 6 year old learn and retain simple number bonds</td>
   </tr>
         <tr>
     <td>♻️</td>
