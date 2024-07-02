@@ -8,17 +8,11 @@
   <a href="https://www.linkedin.com/in/david-dickinson-b3704731">
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCGbZVBvbH-UZd7rJ3KckZzA">
-    <img src="https://img.shields.io/static/v1?label=&message=YouTube&color=red" alt="Youtube Badge"/>
-  </a>
   <a href="https://twitter.com/oneMore_David">
     <img src="https://img.shields.io/static/v1?label=&message=X (twitter)&color=black" alt="X (twitter) Badge"/>
   </a>
   <a href="https://www.oneMoreDavid.com">
     <img src="https://img.shields.io/static/v1?label=&message=Blog&color=green" alt="Blog Badge"/>
-  </a>
-  <a href="https://www.threads.net/@onemoredavid">
-    <img src="https://img.shields.io/static/v1?label=&message=Threads&color=pink" alt="Threads Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=rnddave&style=flat-square&color=orange" alt=""/>
 
