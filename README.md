@@ -79,9 +79,9 @@ Without my GitHub, I am useless.</blockquote>
   </tr>
   <tr>
     <td>🥘</td>
-    <td>An online store concept</td>
+    <td>Amazon Store Front & Blog</td>
     <td><a href="https://chinese-hotpot.co.uk">Chinese Hotpot</a></td>
-    <td>React, Sass, React Router, Firebase</td>
+    <td>React, Gatsby, GraphQL, CSS, MarkDown</td>
   </tr>
   <tr>
     <td>🪙</td>
@@ -106,6 +106,11 @@ Without my GitHub, I am useless.</blockquote>
     <td>AI, LLM Prompting, Development, IT Consultancy, Data</td>
   </tr>
   <tr>
+    <td>🥘</td>
+    <td><a href="https://chinese-hotpot.netlify.app/">A React Online Store</a></td>
+    <td>Chinese Hotpot (built using React & Sass)</td>
+  </tr>
+  <tr>
     <td>🧮</td>
     <td><a href="https://number-bonds.netlify.app/">Number Bonds</a></td>
     <td>Helping my 6 year old learn and retain simple number bonds</td>
@@ -125,7 +130,7 @@ Without my GitHub, I am useless.</blockquote>
     <td><a href="https://jobs-for-rain.netlify.app">Jobs for Rain</a></td>
     <td>Landing page for a sole trader</td>
   </tr>
-        <tr>
+  <tr>
     <td>🐕</td>
     <td><a href="https://gleaming-centaur-9d0521.netlify.app">Carol's Groomers</a></td>
     <td>Dog Grooming Services</td>
