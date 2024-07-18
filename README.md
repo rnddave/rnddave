@@ -80,7 +80,7 @@ Without my GitHub, I am useless.</blockquote>
   <tr>
     <td>🥘</td>
     <td>Amazon Store Front & Blog</td>
-    <td><a href="https://chinese-hotpot.co.uk">Chinese Hotpot</a></td>
+    <td><a href="https://chinesehotpot.co.uk">Chinese Hotpot</a></td>
     <td>React, Gatsby, GraphQL, CSS, MarkDown</td>
   </tr>
   <tr>
