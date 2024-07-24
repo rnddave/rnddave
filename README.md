@@ -44,20 +44,29 @@ Without my GitHub, I am useless.</blockquote>
     <th>Link</th>
     <th>TechStack</th>
   </tr>
-
   <tr>
-    <td>🌟</td>
+    <td>☀️</td>
+    <td>A Solana Staking Dashboard</td>
+    <td><a href="https://github.com/rnddave/solana-staking-dashboard">A Dashboard to view Solana Wallets, Stake and Unstake, see Rewards (incomplete)</a></td>
+    <td>React, Web3.js, Solana, Blockchain, Web3</td>
+  </tr>
+  <tr>
+    <td>🪙</td>
+    <td>My ERC-20 token</td>
+    <td><a href="https://github.com/rnddave/blockchain-101/blob/main/erc20-wallace-token.sol">An ERC-20 Token</a></td>
+    <td>Solidity, Ethereum, Blockchain, Web3</td>
+  </tr>
+  <tr>
+    <td>🏢</td>
     <td>That | New | Job</td>
     <td><a href="https://thatnewjob.com">ThatNewJob.com</a></td>
     <td>Vite, React, CSS, Firebase</td>
-    
   </tr>
   <tr>
     <td>💻</td>
     <td>Writing about ML, DS, W3 & Dev</td>
     <td><a href="https://onemoredavid.com">OneMoreDavid.com</a></td>
     <td>React, Gatsby, GraphQL, MarkDown</td>
-    
   </tr>
   <tr>
     <td>👨‍💻</td>
@@ -72,22 +81,16 @@ Without my GitHub, I am useless.</blockquote>
     <td>Vite, React, CSS, Node.js</td>
   </tr>
   <tr>
-    <td>📺</td>
-    <td>What The Flash?</td>
-    <td><a href="https://whattheflash.com">What the Flash?</a></td>
-    <td>React, Sass</td>
-  </tr>
-  <tr>
     <td>🥘</td>
     <td>Amazon Store Front & Blog</td>
     <td><a href="https://chinesehotpot.co.uk">Chinese Hotpot</a></td>
     <td>React, Gatsby, GraphQL, CSS, MarkDown</td>
   </tr>
   <tr>
-    <td>🪙</td>
-    <td>My ERC-20 token</td>
-    <td><a href="https://github.com/rnddave/blockchain-101/blob/main/erc20-wallace-token.sol">An ERC-20 Token</a></td>
-    <td>Solidity, Ethereum, Blockchain, Web3</td>
+    <td>📺</td>
+    <td>What The Flash?</td>
+    <td><a href="https://whattheflash.com">What the Flash?</a></td>
+    <td>React, Sass</td>
   </tr>
 </table>
 </div>
@@ -109,6 +112,11 @@ Without my GitHub, I am useless.</blockquote>
     <td>🥘</td>
     <td><a href="https://chinese-hotpot.netlify.app/">A React Online Store</a></td>
     <td>Chinese Hotpot (built using React & Sass)</td>
+  </tr>
+  <tr>
+    <td>👀</td>
+    <td><a href="https://github-following.netlify.app/">GitHub Follow Checker</a></td>
+    <td>Simple way to check the difference beween people that follow you on GitHub vs who you follow on GitHub</td>
   </tr>
   <tr>
     <td>🧮</td>
