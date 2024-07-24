@@ -46,8 +46,8 @@ Without my GitHub, I am useless.</blockquote>
   </tr>
   <tr>
     <td>☀️</td>
-    <td>A Solana Staking Dashboard</td>
-    <td><a href="https://github.com/rnddave/solana-staking-dashboard">A Dashboard to view Solana Wallets, Stake and Unstake, see Rewards (incomplete)</a></td>
+    <td>A Dashboard to view Solana Wallets, Stake and Unstake, see Rewards (incomplete)</td>
+    <td><a href="https://github.com/rnddave/solana-staking-dashboard">Solana Staking Dashboard</a></td>
     <td>React, Web3.js, Solana, Blockchain, Web3</td>
   </tr>
   <tr>
@@ -58,19 +58,19 @@ Without my GitHub, I am useless.</blockquote>
   </tr>
   <tr>
     <td>🏢</td>
-    <td>That | New | Job</td>
+    <td>A platform to record and track job applications</td>
     <td><a href="https://thatnewjob.com">ThatNewJob.com</a></td>
     <td>Vite, React, CSS, Firebase</td>
   </tr>
   <tr>
     <td>💻</td>
-    <td>Writing about ML, DS, W3 & Dev</td>
+    <td>Blogging about Development, Web3 and a little ML & DS thrown in as well</td>
     <td><a href="https://onemoredavid.com">OneMoreDavid.com</a></td>
     <td>React, Gatsby, GraphQL, MarkDown</td>
   </tr>
   <tr>
     <td>👨‍💻</td>
-    <td>David Dickinson (Portfolio)</td>
+    <td>David Dickinson (Portfolio website)</td>
     <td><a href="https://david-dickinson.com">David-Dickinson.com</a></td>
     <td>React, Tailwind</td>
   </tr>
@@ -83,14 +83,8 @@ Without my GitHub, I am useless.</blockquote>
   <tr>
     <td>🥘</td>
     <td>Amazon Store Front & Blog</td>
-    <td><a href="https://chinesehotpot.co.uk">Chinese Hotpot</a></td>
+    <td><a href="https://chinesehotpot.co.uk">ChineseHotpot.co.uk</a></td>
     <td>React, Gatsby, GraphQL, CSS, MarkDown</td>
-  </tr>
-  <tr>
-    <td>📺</td>
-    <td>What The Flash?</td>
-    <td><a href="https://whattheflash.com">What the Flash?</a></td>
-    <td>React, Sass</td>
   </tr>
 </table>
 </div>
@@ -123,12 +117,17 @@ Without my GitHub, I am useless.</blockquote>
     <td><a href="https://number-bonds.netlify.app/">Number Bonds</a></td>
     <td>Helping my 6 year old learn and retain simple number bonds</td>
   </tr>
-        <tr>
+   <tr>
     <td>♻️</td>
     <td><a href="https://another-level.company">Another Level</a></td>
-    <td>Waste Management</td>
+    <td>Waste Management Website</td>
   </tr>
-          <tr>
+     <tr>
+    <td>📺</td>    
+    <td><a href="https://whattheflash.com">What the Flash?</a></td>
+       <td>What The Flash?</td>
+  </tr>
+  <tr>
     <td>🛜</td>
     <td><a href="https://melodious-speculoos-33028d.netlify.app">i99</a></td>
     <td>IT Consultancy</td>
