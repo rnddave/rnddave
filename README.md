@@ -1,147 +1,149 @@
 <div id="main" align="center">
-<h2>Hi, I'm David and this is my GitHub 👋 </h2>
+  <h1>👋 Hi, I'm David! Welcome to my GitHub 🚀</h1>
+  <p>🌐 Exploring the Future of Web3 Development</p>
   <br>
-<div id="badges" align="center">
-  <a href="https://www.david-dickinson.com">
-    <img src="https://img.shields.io/static/v1?label=&message=Website&color=purple" alt="WWW Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/david-dickinson-b3704731">
-    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/oneMore_David">
-    <img src="https://img.shields.io/static/v1?label=&message=X (twitter)&color=black" alt="X (twitter) Badge"/>
-  </a>
-  <a href="https://www.oneMoreDavid.com">
-    <img src="https://img.shields.io/static/v1?label=&message=Blog&color=green" alt="Blog Badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=rnddave&style=flat-square&color=orange" alt=""/>
 
-<br>
-<br>
+  <div id="badges" align="center">
+    <a href="https://www.david-dickinson.com">
+      <img src="https://img.shields.io/static/v1?label=&message=Website&color=purple" alt="WWW Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/david-dickinson-b3704731">
+      <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/oneMore_David">
+      <img src="https://img.shields.io/static/v1?label=&message=X (twitter)&color=black" alt="X (twitter) Badge"/>
+    </a>
+    <a href="https://www.oneMoreDavid.com">
+      <img src="https://img.shields.io/static/v1?label=&message=Blog&color=green" alt="Blog Badge"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=rnddave&style=flat-square&color=orange" alt=""/>
+  </div>
 
-<blockquote align="justify">This is my GitHub. 
-There are many like it but this one is mine. 
-My GitHub is my best friend. 
-It is my life. 
-I must master it as I must master my life.
-Without me, my GitHub is useless.
-Without my GitHub, I am useless.</blockquote>
+  <br><br>
 
-<em> If you know the movie from which this comes, bonus marks.</em>
+  <blockquote align="center">
+    "This is my GitHub. There are many like it but this one is mine. My GitHub is my best friend. It is my life. I must master it as I must master my life. Without me, my GitHub is useless. Without my GitHub, I am useless."
+  </blockquote>
+  <em> If you know the movie this comes from, bonus points!</em>
 
+  <hr>
+</div>
+
+## 🚀 Check Out My Projects
 <div align="center">
-</div>
-<hr>
-</div>
-</div>
-
-## Check these out
-<div align="center">
-<table>
-  <tr>
-    <th>Emoji</th>
-    <th>Name</th>
-    <th>Link</th>
-    <th>TechStack</th>
-  </tr>
-  <tr>
-    <td>☀️</td>
-    <td>A Dashboard to view Solana Wallets, Stake and Unstake, see Rewards (incomplete)</td>
-    <td><a href="https://github.com/rnddave/solana-staking-dashboard">Solana Staking Dashboard</a></td>
-    <td>React, Web3.js, Solana, Blockchain, Web3</td>
-  </tr>
-  <tr>
-    <td>🪙</td>
-    <td>My ERC-20 token</td>
-    <td><a href="https://github.com/rnddave/blockchain-101/blob/main/erc20-wallace-token.sol">An ERC-20 Token</a></td>
-    <td>Solidity, Ethereum, Blockchain, Web3</td>
-  </tr>
-  <tr>
-    <td>🏢</td>
-    <td>A platform to record and track job applications</td>
-    <td><a href="https://thatnewjob.com">ThatNewJob.com</a></td>
-    <td>Vite, React, CSS, Firebase</td>
-  </tr>
-  <tr>
-    <td>💻</td>
-    <td>Blogging about Development, Web3 and a little ML & DS thrown in as well</td>
-    <td><a href="https://onemoredavid.com">OneMoreDavid.com</a></td>
-    <td>React, Gatsby, GraphQL, MarkDown</td>
-  </tr>
-  <tr>
-    <td>👨‍💻</td>
-    <td>David Dickinson (Portfolio website)</td>
-    <td><a href="https://david-dickinson.com">David-Dickinson.com</a></td>
-    <td>React, Tailwind</td>
-  </tr>
-  <tr>
-    <td>🏎️</td>
-    <td>Who is the F1 GOAT?</td>
-    <td><a href="https://f1-goat.com">f1-goat.com</a></td>
-    <td>Vite, React, CSS, Node.js</td>
-  </tr>
-  <tr>
-    <td>🥘</td>
-    <td>Amazon Store Front & Blog</td>
-    <td><a href="https://chinesehotpot.co.uk">ChineseHotpot.co.uk</a></td>
-    <td>React, Gatsby, GraphQL, CSS, MarkDown</td>
-  </tr>
-</table>
+  <table>
+    <thead>
+      <tr>
+        <th>Emoji</th>
+        <th>Name</th>
+        <th>Link</th>
+        <th>Tech Stack</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>☀️</td>
+        <td>Solana Staking Dashboard</td>
+        <td><a href="https://github.com/rnddave/solana-staking-dashboard">View Project</a></td>
+        <td>React, Web3.js, Solana, Blockchain, Web3</td>
+      </tr>
+      <tr>
+        <td>🪙</td>
+        <td>My ERC-20 Token</td>
+        <td><a href="https://github.com/rnddave/blockchain-101/blob/main/erc20-wallace-token.sol">View Project</a></td>
+        <td>Solidity, Ethereum, Blockchain, Web3</td>
+      </tr>
+      <tr>
+        <td>🏢</td>
+        <td>ThatNewJob.com</td>
+        <td><a href="https://thatnewjob.com">View Project</a></td>
+        <td>Vite, React, CSS, Firebase</td>
+      </tr>
+      <tr>
+        <td>💻</td>
+        <td>OneMoreDavid.com</td>
+        <td><a href="https://onemoredavid.com">View Project</a></td>
+        <td>React, Gatsby, GraphQL, Markdown</td>
+      </tr>
+      <tr>
+        <td>👨‍💻</td>
+        <td>David-Dickinson.com</td>
+        <td><a href="https://david-dickinson.com">View Project</a></td>
+        <td>React, Tailwind</td>
+      </tr>
+      <tr>
+        <td>🏎️</td>
+        <td>F1 GOAT</td>
+        <td><a href="https://f1-goat.com">View Project</a></td>
+        <td>Vite, React, CSS, Node.js</td>
+      </tr>
+      <tr>
+        <td>🥘</td>
+        <td>ChineseHotpot.co.uk</td>
+        <td><a href="https://chinesehotpot.co.uk">View Project</a></td>
+        <td>React, Gatsby, GraphQL, CSS, Markdown</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
-## And more...
+## 📚 More Projects
 <div align="center">
-<table>
-  <tr>
-    <th>Emoji</th>
-    <th>Link</th>
-    <th>Info</th>
-  </tr>
-  <tr>
-    <td>🚀</td>
-    <td><a href="https://wallaceandwang.com">Wallace & Wang Ltd</a></td>
-    <td>AI, LLM Prompting, Development, IT Consultancy, Data</td>
-  </tr>
-  <tr>
-    <td>🥘</td>
-    <td><a href="https://chinese-hotpot.netlify.app/">A React Online Store</a></td>
-    <td>Chinese Hotpot (built using React & Sass)</td>
-  </tr>
-  <tr>
-    <td>👀</td>
-    <td><a href="https://github-following.netlify.app/">GitHub Follow Checker</a></td>
-    <td>Simple way to check the difference beween people that follow you on GitHub vs who you follow on GitHub</td>
-  </tr>
-  <tr>
-    <td>🧮</td>
-    <td><a href="https://number-bonds.netlify.app/">Number Bonds</a></td>
-    <td>Helping my 6 year old learn and retain simple number bonds</td>
-  </tr>
-   <tr>
-    <td>♻️</td>
-    <td><a href="https://another-level.company">Another Level</a></td>
-    <td>Waste Management Website</td>
-  </tr>
-     <tr>
-    <td>📺</td>    
-    <td><a href="https://whattheflash.com">What the Flash?</a></td>
-       <td>What The Flash?</td>
-  </tr>
-  <tr>
-    <td>🛜</td>
-    <td><a href="https://melodious-speculoos-33028d.netlify.app">i99</a></td>
-    <td>IT Consultancy</td>
-  </tr>
-        <tr>
-    <td>☔</td>
-    <td><a href="https://jobs-for-rain.netlify.app">Jobs for Rain</a></td>
-    <td>Landing page for a sole trader</td>
-  </tr>
-  <tr>
-    <td>🐕</td>
-    <td><a href="https://gleaming-centaur-9d0521.netlify.app">Carol's Groomers</a></td>
-    <td>Dog Grooming Services</td>
-  </tr>
-</table>
+  <table>
+    <thead>
+      <tr>
+        <th>Emoji</th>
+        <th>Link</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>🚀</td>
+        <td><a href="https://wallaceandwang.com">Wallace & Wang Ltd</a></td>
+        <td>AI, LLM Prompting, Development, IT Consultancy, Data</td>
+      </tr>
+      <tr>
+        <td>🥘</td>
+        <td><a href="https://chinese-hotpot.netlify.app/">Chinese Hotpot Store</a></td>
+        <td>Amazon Store Front & Blog (React & Sass)</td>
+      </tr>
+      <tr>
+        <td>👀</td>
+        <td><a href="https://github-following.netlify.app/">GitHub Follow Checker</a></td>
+        <td>Check your GitHub follow status</td>
+      </tr>
+      <tr>
+        <td>🧮</td>
+        <td><a href="https://number-bonds.netlify.app/">Number Bonds</a></td>
+        <td>Helping my 6-year-old learn number bonds</td>
+      </tr>
+      <tr>
+        <td>♻️</td>
+        <td><a href="https://another-level.company">Another Level</a></td>
+        <td>Waste Management Website</td>
+      </tr>
+      <tr>
+        <td>📺</td>
+        <td><a href="https://whattheflash.com">What the Flash?</a></td>
+        <td>Entertainment Website</td>
+      </tr>
+      <tr>
+        <td>🛜</td>
+        <td><a href="https://melodious-speculoos-33028d.netlify.app">i99</a></td>
+        <td>IT Consultancy</td>
+      </tr>
+      <tr>
+        <td>☔</td>
+        <td><a href="https://jobs-for-rain.netlify.app">Jobs for Rain</a></td>
+        <td>Landing page for a sole trader</td>
+      </tr>
+      <tr>
+        <td>🐕</td>
+        <td><a href="https://gleaming-centaur-9d0521.netlify.app">Carol's Groomers</a></td>
+        <td>Dog Grooming Services</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
