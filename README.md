@@ -16,7 +16,7 @@
     <a href="https://www.oneMoreDavid.com">
       <img src="https://img.shields.io/static/v1?label=&message=Blog&color=green" alt="Blog Badge"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=rnddave&style=flat-square&color=orange" alt=""/>
+    
   </div>
 
   <br><br>
