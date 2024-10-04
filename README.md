@@ -57,7 +57,7 @@
         <td>🏢</td>
         <td>ThatNewJob.com</td>
         <td><a href="https://thatnewjob.com">View Project</a></td>
-        <td>Vite, React, CSS, Firebase</td>
+        <td>NextJS, React, CSS, Firebase</td>
       </tr>
       <tr>
         <td>💻</td>
