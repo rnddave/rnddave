@@ -1,6 +1,6 @@
 <div id="main" align="center">
   <h1>👋 Hi, I'm David! Welcome to my GitHub 🚀</h1>
-  <p>🌐 Exploring the Future of Web3 Development</p>
+  <p>🌐 Exploring the Future of Development using LLM's</p>
   <br>
 
   <div id="badges" align="center">
