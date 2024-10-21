@@ -63,19 +63,13 @@
         <td>💻</td>
         <td>OneMoreDavid.com</td>
         <td><a href="https://onemoredavid.com">View Project</a></td>
-        <td>React, Gatsby, GraphQL, Markdown</td>
+        <td>Astro, AstroJS, TyoeScript, Markdown</td>
       </tr>
       <tr>
         <td>👨‍💻</td>
         <td>David-Dickinson.com</td>
         <td><a href="https://david-dickinson.com">View Project</a></td>
-        <td>React, Tailwind</td>
-      </tr>
-      <tr>
-        <td>🏎️</td>
-        <td>F1 GOAT</td>
-        <td><a href="https://f1-goat.com">View Project</a></td>
-        <td>Vite, React, CSS, Node.js</td>
+        <td>NextJS, Tailwind</td>
       </tr>
       <tr>
         <td>🥘</td>
