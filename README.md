@@ -114,7 +114,7 @@
       </tr>
       <tr>
         <td>♻️</td>
-        <td><a href="https://another-level.company">Another Level</a></td>
+        <td><a href="https://anotherlevel.company">Another Level</a></td>
         <td>Waste Management Website</td>
       </tr>
       <tr>
