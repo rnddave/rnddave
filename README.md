@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/oneMore_David">
-      <img src="https://img.shields.io/static/v1?label=&message=X (twitter)&color=black" alt="X (twitter) Badge"/>
+      <img src="https://img.shields.io/static/v1?label=&message=X/Twitter&color=black" alt="X Badge"/>
     </a>
     <a href="https://www.oneMoreDavid.com">
       <img src="https://img.shields.io/static/v1?label=&message=Blog&color=green" alt="Blog Badge"/>
