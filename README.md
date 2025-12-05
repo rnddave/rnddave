@@ -119,7 +119,7 @@
       </tr>
       <tr>
         <td>📺</td>
-        <td><a href="https://whattheflash.com">What the Flash?</a></td>
+        <td><a href="https://incredible-biscotti-3d7766.netlify.app">What the Flash?</a></td>
         <td>Entertainment Website</td>
       </tr>
       <tr>
